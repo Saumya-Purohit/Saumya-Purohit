@@ -34,6 +34,12 @@
 - 💻 Full Stack Developer with experience in C++, Java, Node.js, MongoDB, AWS, and more
 - 🚀 Passionate about Cloud Computing, DevOps, and creating innovative web solutions
 
+## My Contribution Snake
+!Contribution Snake Example
+
+## GitHub Stats
+!Saumya's GitHub stats
+
 
 ### 📊 GitHub Activity
 <!-- Add a dynamically generated commit chart using a service like https://github.com/ashutosh00710/github-readme-activity-graph -->
