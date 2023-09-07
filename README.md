@@ -13,22 +13,6 @@
   <img class="profile-pic" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Coding" width="400"/>
 </p>
 
-<style>
-.profile-pic {
-  animation: spin 5s linear infinite;
-}
-
-@keyframes spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
-
-.skill-item:hover {
-  transform: scale(1.1);
-  transition: all 0.2s ease-in-out;
-}
-</style>
-
 ### 🌟 About Me
 - 🎓 Computer Science and Engineering student at University of Petroleum and Energy Studies, India
 - 💻 Full Stack Developer with experience in C++, Java, Node.js, MongoDB, AWS, and more
