@@ -34,20 +34,9 @@
 ### 📊 GitHub Activity
 <!-- Add a dynamically generated commit chart using a service like https://github.com/ashutosh00710/github-readme-activity-graph -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Saumya-Purohit&theme=xcode" alt="GitHub Activity Chart" width="600"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saumya-Purohit&theme=xcode" alt="GitHub Activity Chart" width="600"/>
 </p>
 
-### 🎓 Education
-- B.Tech in Computer Science and Engineering, University of Petroleum and Energy Studies, India
-- Secondary Education, DPS, Ranipur Haridwar, India
-
-### 🏆 Certifications & Badges
-<!-- Add links to your certifications and badges -->
-- [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/86c1f182-7291-4318-8692-be2aea387574?source=linked_in_profile)
-- [AWS Academy Cloud Developing](https://www.credly.com/badges/df1326fd-c32b-4828-92d6-e3fe48ab45f7/public_url)
-- [CSS Certificate - HackerRank](https://www.hackerrank.com/certificates/7fd3302c5409)
-- [5G Technology and Its Applications](https://learn.futureskillsprime.in/verify_badge/91St60FSqC?user_id=1697763)
-- [Networking Essentials - Issued by Cisco](https://www.credly.com/badges/1ee3eb11-f411-4f63-9ba1-2346eb0cc006/public_url)
 
 ### 📫 Contact Me
 - Email: saumyapurohit97@gmail.com
