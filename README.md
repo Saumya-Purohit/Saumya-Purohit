@@ -35,6 +35,12 @@
 - **Databases**: MongoDB, SQL
 - **Tools & Technologies**: Git, GitHub, Docker, AWS, Heroku
 
+### 💼 Projects
+<!-- Add your top repositories with links and descriptions -->
+- CataComb: Efficient data storage solution.
+- BlockPharm: Blockchain-based pharmaceutical supply chain portal.
+- Service-Setu: B2B website for an intuitive user experience.
+- Extractor: AWS-based text extraction tool for handwritten documents.
 
 ### 📊 GitHub Activity
 <!-- Add a dynamically generated commit chart using a service like https://github.com/ashutosh00710/github-readme-activity-graph -->
