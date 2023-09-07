@@ -22,6 +22,11 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.skill-item:hover {
+  transform: scale(1.1);
+  transition: all 0.2s ease-in-out;
+}
 </style>
 
 ### 🌟 About Me
@@ -30,10 +35,12 @@
 - 🚀 Passionate about Cloud Computing, DevOps, and creating innovative web solutions
 
 ### 🛠️ Skills
-- **Languages**: C++, Java, JavaScript
-- **Web Development**: HTML, CSS, Bootstrap, Node.js, React
-- **Databases**: MongoDB, SQL
-- **Tools & Technologies**: Git, GitHub, Docker, AWS, Heroku
+<ul>
+  <li class="skill-item">**Languages**: C++, Java, JavaScript</li>
+  <li class="skill-item">**Web Development**: HTML, CSS, Bootstrap, Node.js, React</li>
+  <li class="skill-item">**Databases**: MongoDB, SQL</li>
+  <li class="skill-item">**Tools & Technologies**: Git, GitHub, Docker, AWS, Heroku</li>
+</ul>
 
 ### 💼 Projects
 <!-- Add your top repositories with links and descriptions -->
