@@ -24,28 +24,31 @@
 - **Databases**: MongoDB, SQL
 - **Tools & Technologies**: Git, GitHub, Docker, AWS, Heroku
 
-### 🚀 Projects
+### 💼 Projects
+<!-- Add your top repositories with links and descriptions -->
 - [CataComb](https://github.com/Saumya-Purohit/Catacomb): Efficient data storage solution.
 - [BlockPharm](https://github.com/Saumya-Purohit/BlockPharm--supply-chain-truffle-react-main): Blockchain-based pharmaceutical supply chain portal.
 - [Service-Setu](https://github.com/Saumya-Purohit/Service-Setu): B2B website for an intuitive user experience.
 - [Extractor](https://github.com/Saumya-Purohit/AWS-Extractor): AWS-based text extraction tool for handwritten documents.
+
+### 📊 GitHub Activity
+<!-- Add a dynamically generated commit chart using a service like https://github.com/ashutosh00710/github-readme-activity-graph -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Saumya-Purohit&theme=xcode" alt="GitHub Activity Chart" width="600"/>
+</p>
 
 ### 🎓 Education
 - B.Tech in Computer Science and Engineering, University of Petroleum and Energy Studies, India
 - Secondary Education, DPS, Ranipur Haridwar, India
 
 ### 🏆 Certifications & Badges
+<!-- Add links to your certifications and badges -->
 - [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/86c1f182-7291-4318-8692-be2aea387574?source=linked_in_profile)
 - [AWS Academy Cloud Developing](https://www.credly.com/badges/df1326fd-c32b-4828-92d6-e3fe48ab45f7/public_url)
 - [CSS Certificate - HackerRank](https://www.hackerrank.com/certificates/7fd3302c5409)
 - [5G Technology and Its Applications](https://learn.futureskillsprime.in/verify_badge/91St60FSqC?user_id=1697763)
 - [Networking Essentials - Issued by Cisco](https://www.credly.com/badges/1ee3eb11-f411-4f63-9ba1-2346eb0cc006/public_url)
 
-### 🏆 Achievements
-- Organized and executed engaging cloud-based events with a 90% participation rate.
-- Led a coding competition for 250+ participants, increasing engagement by 15%.
-
 ### 📫 Contact Me
 - Email: saumyapurohit97@gmail.com
 - LinkedIn: [saumya-purohit-a9765a240](https://www.linkedin.com/in/saumya-purohit-a9765a240/)
-
