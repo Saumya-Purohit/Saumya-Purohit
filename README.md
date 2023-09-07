@@ -10,8 +10,19 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Coding" width="400"/>
+  <img class="profile-pic" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Coding" width="400"/>
 </p>
+
+<style>
+.profile-pic {
+  animation: spin 5s linear infinite;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+</style>
 
 ### 🌟 About Me
 - 🎓 Computer Science and Engineering student at University of Petroleum and Energy Studies, India
@@ -24,12 +35,6 @@
 - **Databases**: MongoDB, SQL
 - **Tools & Technologies**: Git, GitHub, Docker, AWS, Heroku
 
-### 💼 Projects
-<!-- Add your top repositories with links and descriptions -->
-- [CataComb](https://github.com/Saumya-Purohit/Catacomb): Efficient data storage solution.
-- [BlockPharm](https://github.com/Saumya-Purohit/BlockPharm--supply-chain-truffle-react-main): Blockchain-based pharmaceutical supply chain portal.
-- [Service-Setu](https://github.com/Saumya-Purohit/Service-Setu): B2B website for an intuitive user experience.
-- [Extractor](https://github.com/Saumya-Purohit/AWS-Extractor): AWS-based text extraction tool for handwritten documents.
 
 ### 📊 GitHub Activity
 <!-- Add a dynamically generated commit chart using a service like https://github.com/ashutosh00710/github-readme-activity-graph -->
@@ -37,7 +42,36 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saumya-Purohit&theme=xcode" alt="GitHub Activity Chart" width="600"/>
 </p>
 
+### 🎮 Play a Game!
+<p>Let's play rock-paper-scissors! Choose your move:</p>
+<button onclick="play('rock')">Rock</button>
+<button onclick="play('paper')">Paper</button>
+<button onclick="play('scissors')">Scissors</button>
+<p id="result"></p>
+
+<script>
+function play(userChoice) {
+  const choices = ['rock', 'paper', 'scissors'];
+  const computerChoice = choices[Math.floor(Math.random() * choices.length)];
+  
+  let result;
+  
+  if (userChoice === computerChoice) {
+    result = 'It\'s a tie!';
+  } else if (
+    (userChoice === 'rock' && computerChoice === 'scissors') ||
+    (userChoice === 'paper' && computerChoice === 'rock') ||
+    (userChoice === 'scissors' && computerChoice === 'paper')
+  ) {
+    result = 'You win!';
+  } else {
+    result = 'You lose!';
+  }
+  
+  document.getElementById('result').innerHTML = `Computer chose ${computerChoice}. ${result}`;
+}
+</script>
 
 ### 📫 Contact Me
 - Email: saumyapurohit97@gmail.com
-- LinkedIn: [saumya-purohit-a9765a240](https://www.linkedin.com/in/saumya-purohit-a9765a240/)
+- LinkedIn: saumya-purohit-a9765a240
